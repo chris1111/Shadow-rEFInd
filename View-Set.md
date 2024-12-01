@@ -57,12 +57,10 @@
 <img src="Shadow-rEFInd/os_cachyos.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_crunchbang.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_gummiboot.png" alt="Github Project" style="width:20%;">
-<img src="Shadow-rEFInd/os_haiku.png" alt="Github Project" style="width:20%;">
-<img src="Shadow-rEFInd/os_hwtest.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_legacy.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_netbsd.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_refind.png" alt="Github Project" style="width:20%;">
-<img src="Shadow-rEFInd/os_refit.png" alt="Github Project" style="width:20%;">
+<img src="Shadow-rEFInd/os_sabaion.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_slackware.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_unknown.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_void.png" alt="Github Project" style="width:20%;">
