@@ -1,0 +1,5 @@
+title: Shadow-rEFInd
+description: con Set use with rEFInd and RefindPlus
+github:
+  repository_url: https://github.com/chris1111/Shadow-rEFInd
+remote_theme: chris1111/cayman-dark
