@@ -19,10 +19,10 @@
 <img src="Shadow-rEFInd/os_gentoo.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_kali.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_kaos.png" alt="Github Project" style="width:20%;"> 
-<img src="Shadow-rEFInd/os_knoopix.png" alt="Github Project" style="width:20%;"> 
+<img src="Shadow-rEFInd/os_knoppix.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_kubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_linux.png" alt="Github Project" style="width:20%;"> 
-<img src="Shadow-rEFInd/os_linux_fx.png" alt="Github Project" style="width:20%;">
+<img src="Shadow-rEFInd/os_linux_fx_11.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_lite.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_lubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_mabox.png" alt="Github Project" style="width:20%;"> 
@@ -46,7 +46,7 @@
 <img src="Shadow-rEFInd/os_ubuntu_studio.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_ubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_windows10.png" alt="Github Project" style="width:20%;"> 
-<img src="Shadow-rEFInd/os_windows11_Alt.png" alt="Github Project" style="width:20%;"> 
+<img src="Shadow-rEFInd/os_windows.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_windows11.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_xubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_zorin.png" alt="Github Project" style="width:20%;"> 
@@ -55,7 +55,6 @@
 <img src="Shadow-rEFInd/os_artful.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_bionic.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_cachyos.png" alt="Github Project" style="width:20%;">
-<img src="Shadow-rEFInd/os_clover.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_crunchbang.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_devuan.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_frugalware.png" alt="Github Project" style="width:20%;">
@@ -69,7 +68,6 @@
 <img src="Shadow-rEFInd/os_slackware.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_unknown.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_void.png" alt="Github Project" style="width:20%;">
-<img src="Shadow-rEFInd/os_win8.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_chakra.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_opencore.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_ecomstation.png" alt="Github Project" style="width:20%;">
