@@ -27,6 +27,7 @@
 <img src="Shadow-rEFInd/os_lubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_mabox.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_mageia.png" alt="Github Project" style="width:20%;"> 
+<img src="Shadow-rEFInd/os_clover.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_mandriva.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_manjaro.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_linuxmint.png" alt="Github Project" style="width:20%;"> 
