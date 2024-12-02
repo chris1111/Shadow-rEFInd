@@ -1,7 +1,7 @@
 # Shadow-rEFInd
 - Icon Set use with [rEFInd](https://www.rodsbooks.com/refind/) and  [rEFIndPlus](https://github.com/dakanji/RefindPlus)
   
-- ### 87 Distro Icons DarkGrey Square
+- ### 92 Distro Icons DarkGrey Square
 
 View ➤ [Ison Set](https://github.com/chris1111/Shadow-rEFInd/blob/main/View-Set.md)
 View ➤ [All Icons](https://github.com/chris1111/Shadow-rEFInd/tree/main/Shadow-rEFInd)
