@@ -77,6 +77,7 @@
 <img src="Shadow-rEFInd/os_tails.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_trusty.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_ubuntu_cinnamon.png" alt="Github Project" style="width:20%;">
+<img src="Shadow-rEFInd/os_ubuntu_dde" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_ubuntu_studio.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_ubuntu_unity.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_ubuntu.png" alt="Github Project" style="width:20%;">
