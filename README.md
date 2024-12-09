@@ -17,4 +17,11 @@ Download Icons Set ➤ [Shadow-rEFInd.zip](https://github.com/chris1111/Shadow-r
 ### rEFIndPlus
 <img src="Screenshot/screenshot_003.png" alt="Github Project" style="width:100%;">
 <img src="Screenshot/screenshot_004.png" alt="Github Project" style="width:100%;">
- 
+
+My Other theme ⬇︎
+
+[Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
+
+[rEFInd-Shadow-IOS](https://github.com/chris1111/rEFInd-Shadow-IOS)
+
+[rEFInd-Metal-Frame](https://github.com/chris1111/rEFInd-Metal-Frame) 
