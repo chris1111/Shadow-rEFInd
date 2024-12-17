@@ -1,5 +1,5 @@
 # Shadow-rEFInd
-- Icon Set use with [rEFInd](https://www.rodsbooks.com/refind/) and  [rEFIndPlus](https://github.com/dakanji/RefindPlus)
+- Icon Set use with [rEFInd](https://www.rodsbooks.com/refind/) and  [RefindPlus](https://github.com/dakanji/RefindPlus)
   
 - ### 92 Distro Icons DarkGrey Square
 
