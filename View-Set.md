@@ -1,5 +1,4 @@
 ## View Set Shadow-rEFInd
-
 <img src="Shadow-rEFInd/os_alma.png" alt="Github Project" style="width:20%;"><img src="Shadow-rEFInd/os_alpine.png" alt="Github Project" style="width:20%;"> 
 <img src="Shadow-rEFInd/os_antix.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_arcaos.png" alt="Github Project" style="width:20%;">
