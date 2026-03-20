@@ -58,6 +58,7 @@
 <img src="Shadow-rEFInd/os_openmandriva.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_opensuse.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_parrot.png" alt="Github Project" style="width:20%;">
+<img src="Shadow-rEFInd/os_pear.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_peppermint.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_phoenix.png" alt="Github Project" style="width:20%;">
 <img src="Shadow-rEFInd/os_pop.png" alt="Github Project" style="width:20%;">
