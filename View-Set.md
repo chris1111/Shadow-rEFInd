@@ -98,4 +98,4 @@
 <img src="Shadow-rEFInd/icons/banner.png" alt="Github Project" style="width:80%;">
 <img src="Shadow-rEFInd/icons/banner-plus.png" alt="Github Project" style="width:80%;">
 
-[Back On ➦ Top](https://github.com/chris1111/Shadow-rEFInd/blob/main/View-Set.md#view-set)
+[Back On ➦ Top](https://github.com/chris1111/Shadow-rEFInd/blob/main/View-Set.md#view-set-shadow-refind)
