@@ -6,7 +6,7 @@
 View ➤ [Ison Set](https://github.com/chris1111/Shadow-rEFInd/blob/main/View-Set.md)
 View ➤ [All Icons](https://github.com/chris1111/Shadow-rEFInd/tree/main/Shadow-rEFInd)
 
-Configuration ➤ [Refind config](https://github.com/chris1111/Shadow-rEFInd/blob/main/refind-Icon-Set-DarkGrey-Refind.conf)
+Configuration ➤ [Refind config](https://github.com/chris1111/Shadow-rEFInd/blob/main/theme.conf)
 
 Download Icons Set ➤ [Shadow-rEFInd.zip](https://github.com/chris1111/Shadow-rEFInd/raw/refs/heads/main/Shadow-rEFInd.zip)
 
